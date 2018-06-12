@@ -1,0 +1,16 @@
+.jr-btn{
+    width: 90%;
+    margin: 10px;
+}
+.jr-input-text{
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 10px;
+}
+.jr-pad-20{
+    padding-left: 50px;    
+    
+}
+.col-xs-3, .col-xs-9{
+    padding: 0px;
+}
